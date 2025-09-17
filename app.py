@@ -5,7 +5,7 @@ from streamlit_autorefresh import st_autorefresh
 # import pytz
 
 # Run the autorefresh every 2000 milliseconds (2 seconds)
-st_autorefresh(interval=1000, key="data_refresher")
+st_autorefresh(interval=3000, key="data_refresher")
 
 def get_current_time():
     current_time = datetime.datetime.utcnow() - datetime.timedelta(hours=5)
