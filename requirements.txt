@@ -1,2 +1,2 @@
 streamlit-autorefresh
-streamlit==1.6
+streamlit==1.40.1
