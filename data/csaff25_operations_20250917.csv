@@ -1,0 +1,108 @@
+ Film Name,Film Name to Match,Venue,Theater Number,Film Screen Date,Film Run Time (minutes),Film Block Id,Film Sequence in Block,Film Block Start Time,Film Block End Time,Approx Sequence Start Time,Film Block has Q&A,Approximate Time for Q&A Per Block,Category
+Tiger's Pond,Tiger's Pond,AMC River East,18,2025-09-18,93,7,1,10:00 AM,11:30 AM,,FALSE,-3,Fiction Feature Film
+Hiraeth,Hiraeth,AMC River East,18,2025-09-18,100,9,1,11:30 AM,1:30 PM,,TRUE,20,Fiction Feature Film
+Lord's Signal,Lord's Signal,AMC River East,18,2025-09-18,22,11,1,1:30 PM,3:30 PM,,TRUE,17,Fiction Short Film
+Chhat,Chhat,AMC River East,18,2025-09-18,5,11,2,1:30 PM,3:30 PM,,TRUE,17,Fiction Short Film
+Gagan Gaman (Skyward),Gagan Gaman,AMC River East,18,2025-09-18,30,11,3,1:30 PM,3:30 PM,,TRUE,17,Fiction Short Film
+Razaa,Razaa,AMC River East,18,2025-09-18,15,11,4,1:30 PM,3:30 PM,,TRUE,17,Fiction Short Film
+Basanti Tailors,Basanti Tailors,AMC River East,18,2025-09-18,19,11,5,1:30 PM,3:30 PM,,TRUE,17,Fiction Short Film
+Two Sinners,Two Sinners,AMC River East,18,2025-09-18,12,11,6,1:30 PM,3:30 PM,,TRUE,17,Fiction Short Film
+Ritam,Ritam,AMC River East,18,2025-09-18,12,13,1,3:30 PM,5:30 PM,,TRUE,39,Fiction Short Film
+Six Weeks,Six Weeks,AMC River East,18,2025-09-18,25,13,2,3:30 PM,5:30 PM,,TRUE,39,Fiction Short Film
+Dating,Dating,AMC River East,18,2025-09-18,10,13,3,3:30 PM,5:30 PM,,TRUE,39,Fiction Short Film
+Billo Rani,Billo Rani,AMC River East,18,2025-09-18,11,13,4,3:30 PM,5:30 PM,,TRUE,39,Fiction Short Film
+Submission,Submission,AMC River East,18,2025-09-18,23,13,5,3:30 PM,5:30 PM,,TRUE,39,Fiction Short Film
+My Melbourne,My Melbourne,AMC River East,18,2025-09-18,121,15,1,5:30 PM,7:30 PM,,FALSE,-1,Fiction Feature Film
+The Closest Point,The Closest Point,AMC River East,18,2025-09-18,15,17,1,7:30 PM,9:30 PM,,TRUE,29,Fiction Short Film
+Learner's Permit,Learner's Permit,AMC River East,18,2025-09-18,11,17,2,7:30 PM,9:30 PM,,TRUE,29,Fiction Short Film
+Matter,Matter,AMC River East,18,2025-09-18,24,17,3,7:30 PM,9:30 PM,,TRUE,29,Fiction Short Film
+Kalyug (age of Darkness),#kalyug,AMC River East,18,2025-09-18,26,17,4,7:30 PM,9:30 PM,,TRUE,29,Fiction Short Film
+Seen,Seen,AMC River East,18,2025-09-18,15,17,5,7:30 PM,9:30 PM,,TRUE,29,Fiction Short Film
+I'm Dead Right?,I'm Dead Right?,AMC River East,18,2025-09-18,15,19,1,9:30 PM,11:55 PM,,TRUE,32,Fiction Short Film
+Crossing the Desert,Crossing The Desert,AMC River East,18,2025-09-18,13,19,2,9:30 PM,11:55 PM,,TRUE,32,Fiction Short Film
+Asha,Asha,AMC River East,18,2025-09-18,11,19,3,9:30 PM,11:55 PM,,TRUE,32,Fiction Short Film
+Elijah,Elijah,AMC River East,18,2025-09-18,20,19,4,9:30 PM,11:55 PM,,TRUE,32,Fiction Short Film
+Automagic,Automagic,AMC River East,18,2025-09-18,13,19,5,9:30 PM,11:55 PM,,TRUE,32,Fiction Short Film
+The Witch of Vihar Lake,The Witch of Vihar Lake,AMC River East,18,2025-09-18,16,19,6,9:30 PM,11:55 PM,,TRUE,32,Fiction Short Film
+The Story of Yuvraj and Shahajahan,The Story of Yuvraj and Shahajahan,AMC River East,18,2025-09-18,25,19,7,9:30 PM,11:55 PM,,TRUE,32,Fiction Short Film
+Waiting for the Kings,Waiting for the Kings,AMC River East,20,2025-09-18,30,8,1,10:00 AM,11:30 AM,,TRUE,37,Documentary Short Film
+"Aye, Bua","Aye, Bua",AMC River East,20,2025-09-18,11,8,2,10:00 AM,11:30 AM,,TRUE,37,Documentary Short Film
+The Last Resort,The Last Resort,AMC River East,20,2025-09-18,12,8,3,10:00 AM,11:30 AM,,TRUE,37,Documentary Short Film
+Changing Room,Changing Room,AMC River East,20,2025-09-18,11,10,1,11:30 AM,2:00 PM,,TRUE,45,Fiction Short Film
+Showtime,Showtime,AMC River East,20,2025-09-18,14,10,2,11:30 AM,2:00 PM,,TRUE,45,Fiction Short Film
+Kadama,Kadama,AMC River East,20,2025-09-18,15,10,3,11:30 AM,2:00 PM,,TRUE,45,Fiction Short Film
+Cowboys and Hindus,Cowboys and Hindus,AMC River East,20,2025-09-18,17,10,4,11:30 AM,2:00 PM,,TRUE,45,Fiction Short Film
+The Woman With Blue Eyes,The Woman with Blue Eyes,AMC River East,20,2025-09-18,17,10,5,11:30 AM,2:00 PM,,TRUE,45,Fiction Short Film
+Out of the House,Out of the House,AMC River East,20,2025-09-18,12,10,6,11:30 AM,2:00 PM,,TRUE,45,Fiction Short Film
+Almost Home,Almost Home,AMC River East,20,2025-09-18,19,10,7,11:30 AM,2:00 PM,,TRUE,45,Fiction Short Film
+Louis,Louis,AMC River East,20,2025-09-18,10,12,1,2:00 PM,3:30 PM,,TRUE,24,Fiction Short Film
+Brotherly,Brotherly,AMC River East,20,2025-09-18,9,12,2,2:00 PM,3:30 PM,,TRUE,24,Fiction Short Film
+First Place,First Place,AMC River East,20,2025-09-18,10,12,3,2:00 PM,3:30 PM,,TRUE,24,Fiction Short Film
+Mentor,Mentor,AMC River East,20,2025-09-18,12,12,4,2:00 PM,3:30 PM,,TRUE,24,Fiction Short Film
+Squat N Stool,Squat N Stool,AMC River East,20,2025-09-18,10,12,5,2:00 PM,3:30 PM,,TRUE,24,Fiction Short Film
+The Unknown Soldier,The Unknown Soldier,AMC River East,20,2025-09-18,15,12,6,2:00 PM,3:30 PM,,TRUE,24,Fiction Short Film
+Ek Bangla Bane Nyara (A Unique Home),Ek Bangla Bane Nyara,AMC River East,20,2025-09-18,13,14,1,3:30 PM,5:30 PM,,TRUE,31,Fiction Short Film
+Change,Change,AMC River East,20,2025-09-18,11,14,2,3:30 PM,5:30 PM,,TRUE,31,Fiction Short Film
+Manch,Manch: मंच,AMC River East,20,2025-09-18,12,14,3,3:30 PM,5:30 PM,,TRUE,31,Fiction Short Film
+Teaching America,Teaching America,AMC River East,20,2025-09-18,23,14,4,3:30 PM,5:30 PM,,TRUE,31,Documentary Short Film
+Knot,Knot,AMC River East,20,2025-09-18,15,14,5,3:30 PM,5:30 PM,,TRUE,31,Fiction Short Film
+"Who Are You, Nanu?","Who Are You, Nanu?",AMC River East,20,2025-09-18,15,14,6,3:30 PM,5:30 PM,,TRUE,31,Fiction Short Film
+Fragments of Us,Fragments of Us,AMC River East,20,2025-09-18,22,16,1,5:30 PM,7:30 PM,,TRUE,38,Fiction Short Film
+Fankaar (The Artist),Fankaar,AMC River East,20,2025-09-18,15,16,2,5:30 PM,7:30 PM,,TRUE,38,Fiction Short Film
+"Don't be late, Myra","Don't Be Late, Myra",AMC River East,20,2025-09-18,15,16,3,5:30 PM,7:30 PM,,TRUE,38,Fiction Short Film
+Maggie's Not Okay,Maggie's Not Okay,AMC River East,20,2025-09-18,12,16,4,5:30 PM,7:30 PM,,TRUE,38,Fiction Short Film
+Time After Time,Time After Time,AMC River East,20,2025-09-18,18,16,5,5:30 PM,7:30 PM,,TRUE,38,Fiction Short Film
+Minimum,Minimum,AMC River East,20,2025-09-18,100,18,1,7:30 PM,10:00 PM,,TRUE,50,Fiction Feature Film
+The Cycle,The Cycle,AMC River East,20,2025-09-18,17,20,1,10:00 PM,11:55 PM,,TRUE,26,Fiction Short Film
+A Tale of Two Cities,A Tale of Two Cities,AMC River East,20,2025-09-18,10,20,2,10:00 PM,11:55 PM,,TRUE,26,Fiction Short Film
+DreamHotline,Dreamhotline,AMC River East,20,2025-09-18,15,20,3,10:00 PM,11:55 PM,,TRUE,26,Fiction Short Film
+Famished,Famished,AMC River East,20,2025-09-18,15,20,5,10:00 PM,11:55 PM,,TRUE,26,Fiction Short Film
+Red Lavender,Red Lavender,AMC River East,20,2025-09-18,32,20,5,10:00 PM,11:55 PM,,TRUE,26,Fiction Short Film
+Goat Fish Snake Sparrow,Goat Fish Snake Sparrow,AMC River East,11,2025-09-19,24,22,1,10:00 AM,12:00 PM,,TRUE,7,Documentary Short Film
+Roses Are...,Roses Are...,AMC River East,11,2025-09-19,30,22,2,10:00 AM,12:00 PM,,TRUE,7,Fiction Short Film
+Ek Wajah,Ek Wajah,AMC River East,11,2025-09-19,29,22,3,10:00 AM,12:00 PM,,TRUE,7,Fiction Short Film
+Maaybaapache Aashirwaad (Blessings),Maaybaapache Aashirwaad,AMC River East,11,2025-09-19,20,22,4,10:00 AM,12:00 PM,,TRUE,7,Fiction Short Film
+Nani,Nani,AMC River East,11,2025-09-19,10,22,5,10:00 AM,12:00 PM,,TRUE,7,Fiction Short Film
+The Caste Rush,The Caste Rush,AMC River East,11,2025-09-19,60,23,1,12:00 PM,1:30 PM,,TRUE,30,Documentary Feature Film
+The Blue Inside,The Blue Inside,AMC River East,11,2025-09-19,14,25,1,1:30 PM,3:30 PM,,TRUE,32,Fiction Short Film
+Sleep Training,Sleep Training,AMC River East,11,2025-09-19,20,25,2,1:30 PM,3:30 PM,,TRUE,32,Fiction Short Film
+Émigré/Americana,Émigré/Americana,AMC River East,11,2025-09-19,16,25,3,1:30 PM,3:30 PM,,TRUE,32,Fiction Short Film
+Ziddh,Ziddh,AMC River East,11,2025-09-19,17,25,4,1:30 PM,3:30 PM,,TRUE,32,Fiction Short Film
+"My Brother, My Friend","My Brother, My Friend",AMC River East,11,2025-09-19,21,25,5,1:30 PM,3:30 PM,,TRUE,32,Fiction Short Film
+Ru Ba Ru,Ru Ba Ru,AMC River East,11,2025-09-19,29,27,1,3:30 PM,5:30 PM,,FALSE,24,Fiction Short Film
+Postman,Postman,AMC River East,11,2025-09-19,24,27,2,3:30 PM,5:30 PM,,FALSE,24,Fiction Short Film
+That's a Wrap,That's A Wrap,AMC River East,11,2025-09-19,23,27,3,3:30 PM,5:30 PM,,FALSE,24,Fiction Short Film
+Echoes of Us,Echoes of Us,AMC River East,11,2025-09-19,20,27,4,3:30 PM,5:30 PM,,FALSE,24,Fiction Short Film
+Saali Mohabaat,Saali Mohabbat,AMC River East,11,2025-09-19,108,30,1,8:00 PM,11:55 PM,,FALSE,127,Fiction Feature Film
+Chingam (Chewing Gum),Chingam,AMC River East,20,2025-09-19,115,21,1,11:00 AM,1:30 PM,,FALSE,35,Fiction Feature Film
+The Shameless,The Shameless,AMC River East,20,2025-09-19,115,24,1,1:30 PM,4:00 PM,,FALSE,35,Fiction Feature Film
+Ghich Pich,Ghich Pich,AMC River East,20,2025-09-19,92,28,1,4:00 PM,6:30 PM,,FALSE,58,Fiction Feature Film
+Saali Mohabaat,Saali Mohabbat,AMC River East,20,2025-09-19,108,29,1,8:20 PM,11:55 PM,,FALSE,107,Fiction Feature Film
+The Giant Wheel of Life,The Giant Wheel Of Life,AMC River East,11,2025-09-20,20,32,1,10:00 AM,12:00 PM,,FALSE,18,Fiction Short Film
+A Fly on the Wall,A Fly on the Wall,AMC River East,11,2025-09-20,82,32,2,10:00 AM,12:00 PM,,FALSE,18,Documentary Feature Film
+Deeva: the Radiant Light,Deeva,AMC River East,11,2025-09-20,120,34,1,12:00 PM,2:30 PM,,FALSE,30,Fiction Feature Film
+Paro - the Untold Story of Bride Slavery,Paro,AMC River East,11,2025-09-20,105,36,1,2:30 PM,5:00 PM,,TRUE,45,Fiction Feature Film
+Ghamasaan,Ghamasaan,AMC River East,11,2025-09-20,150,38,1,5:00 PM,8:00 PM,,TRUE,30,Fiction Feature Film
+Dar-Badar,Dar-Badar,AMC River East,11,2025-09-20,45,41,1,8:00 PM,9:30 PM,,FALSE,45,Fiction Feature Film
+Little Jaffna,Little Jafna,AMC River East,11,2025-09-20,99,42,1,9:30 PM,11:55 PM,,FALSE,46,Fiction Feature Film
+Creatures of Chaos,Creatures of Chaos,AMC River East,20,2025-09-20,7,31,1,10:00 AM,12:00 PM,,TRUE,25,Fiction Short Film
+Reverse,Reverse,AMC River East,20,2025-09-20,6,31,2,10:00 AM,12:00 PM,,TRUE,25,Fiction Short Film
+Rhythm of a Flower,Rhythm of a Flower,AMC River East,20,2025-09-20,82,31,3,10:00 AM,12:00 PM,,TRUE,25,Documentary Feature Film
+We Are Faheem & Karun,We Are Faheem & Karun,AMC River East,20,2025-09-20,74,33,1,12:00 PM,1:30 PM,,FALSE,16,Fiction Feature Film
+Designed by Preeti,Designed by Preeti,AMC River East,20,2025-09-20,93,35,1,1:30 PM,3:30 PM,,TRUE,27,Fiction Feature Film
+Nukkad Naatak,Nukkad Naatak,AMC River East,20,2025-09-20,107,37,1,3:30 PM,6:00 PM,,FALSE,43,Fiction Feature Film
+Love Chaos Kin,Love Chaos Kin,AMC River East,20,2025-09-20,98,39,1,6:00 PM,8:00 PM,,TRUE,22,Documentary Feature Film
+The Unexpected,The Unexpected,AMC River East,20,2025-09-20,92,40,1,8:00 PM,10:00 PM,,TRUE,28,Fiction Feature Film
+The Model,The Model,AMC River East,20,2025-09-20,120,43,1,10:00 PM,11:55 PM,,FALSE,-5,Fiction Feature Film
+Humans in the Loop,Humans in the Loop,AMC River East,11,2025-09-21,74,45,1,10:00 AM,12:00 PM,,FALSE,46,Fiction Feature Film
+Courage,Courage,AMC River East,11,2025-09-21,110,46,1,12:00 PM,2:30 PM,,TRUE,40,Fiction Feature Film
+Safia/safdar,Safia/Safdar,AMC River East,11,2025-09-21,106,49,1,2:30 PM,5:00 PM,,TRUE,44,Fiction Feature Film
+Bun Tikki,Bun Tikki,AMC River East,11,2025-09-21,120,51,1,5:00 PM,7:00 PM,,TRUE,0,Fiction Feature Film
+Pinch,Pinch,AMC River East,11,2025-09-21,83,53,1,7:00 PM,9:30 PM,,TRUE,67,Fiction Feature Film
+Village Rockstars 2,Village Rockstars 2,AMC River East,20,2025-09-21,108,44,1,10:00 AM,12:30 PM,,FALSE,42,Fiction Feature Film
+Nilo Aakash,Nilo Aakash,AMC River East,20,2025-09-21,12,47,1,12:30 PM,2:30 PM,,TRUE,36,Fiction Short Film
+Color of God,Color of God,AMC River East,20,2025-09-21,14,47,2,12:30 PM,2:30 PM,,TRUE,36,Fiction Short Film
+The Divine Hustle,The Divine Hustle,AMC River East,20,2025-09-21,58,47,3,12:30 PM,2:30 PM,,TRUE,36,Documentary Feature Film
+Mercy,Mercy,AMC River East,20,2025-09-21,100,48,1,2:30 PM,5:00 PM,,FALSE,50,Fiction Feature Film
+Pyre,Pyre,AMC River East,20,2025-09-21,110,50,1,5:00 PM,7:15 PM,,TRUE,25,Fiction Feature Film
+Binodiini Ekti Natir Upakhyan,Binodiini Ekti Natir Upakhyan,AMC River East,20,2025-09-21,151,52,1,7:30 PM,10:30 PM,,FALSE,29,Fiction Feature Film
