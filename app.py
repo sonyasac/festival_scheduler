@@ -2,13 +2,13 @@ import streamlit as st
 import pandas as pd
 import datetime
 from streamlit_autorefresh import st_autorefresh
-import pytz
+# import pytz
 
 # Run the autorefresh every 2000 milliseconds (2 seconds)
 st_autorefresh(interval=1000, key="data_refresher")
 
 def get_current_time():
-    current_time = datetime.datetime.now(pytz.timezone('US/Central'))
+    current_time = datetime.datetime.utcnow() - datetime.timedelta(hours=5)
     return current_time
 
 def get_theaters(dt_ts):
