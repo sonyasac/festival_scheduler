@@ -60,7 +60,7 @@ def check_qa_time(block_id):
 df = pd.read_csv('data/csaff26_operations_20250916.csv')
 
 current_cols = ['Film Name',
-                'Film Name to Match',
+                'Alternative Name',
                 'Venue',
                 'Theater Number',
                 'Film Screen Date',
