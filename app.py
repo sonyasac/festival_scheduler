@@ -113,7 +113,7 @@ now = st.slider(
 current_theater = st.selectbox('Choose a theater', get_theaters(now))
 
 
-st.header('CSAFF 2025 AMC')
+st.header('CSAFF 2026 AMC')
 st.subheader('Now Playing')
 current_block = get_current_block(now, current_theater)
 block_start = get_block_start(current_block)
