@@ -99,13 +99,13 @@ df['end_ts'] = df['end_ts'].apply(lambda x: datetime.datetime.strptime(x, '%Y-%m
 if st.checkbox('Use current time'):
     time_default = get_current_time()
 else:
-    time_default = datetime.datetime(2025, 9, 19, 13, 30)
+    time_default = datetime.datetime(2026, 9, 18, 13, 30)
 now = st.slider(
     "Set start time",
     # value=datetime.datetime(2025, 9, 19, 13, 30),
     value=time_default,
-    min_value=datetime.datetime(2025, 9, 18, 8, 30),
-    max_value=datetime.datetime(2025, 9, 21, 23, 45),
+    min_value=datetime.datetime(2026, 9, 17, 8, 30),
+    max_value=datetime.datetime(2026, 9, 21, 0, 45),
     format="MM/DD/YY - HH:mm",
     step=datetime.timedelta(minutes=15)
 )
