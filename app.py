@@ -57,10 +57,10 @@ def check_qa_time(block_id):
     qa_time = df[df['block_id'] == block_id]['qa_time_available'].iloc[0]
     return qa_time
 
-df = pd.read_csv('data/csaff26_operations_20250916.csv')
+df = pd.read_csv('data/csaff25_operations_20250917.csv')
 
 current_cols = ['Film Name',
-                'Alternative Name',
+                'Film Name to Match',
                 'Venue',
                 'Theater Number',
                 'Film Screen Date',
