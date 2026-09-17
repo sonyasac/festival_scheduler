@@ -75,7 +75,7 @@ current_cols = ['Film Name',
                 'Category']
 df.rename(columns={
     ' Film Name':'film_name',
-    'Film Name to Match':'match_name',
+    'Alternative Name':'match_name',
     'Venue':'venue',
     'Theater Number':'theater_number',
     'Film Screen Date':'screen_date',
